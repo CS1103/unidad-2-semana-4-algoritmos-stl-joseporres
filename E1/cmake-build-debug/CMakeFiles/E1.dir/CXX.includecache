@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jose Adrian/Desktop/POO2/Pracctica pc/E1/funciones.h
+iostream
+-
+string
+-
+algorithm
+-
+
+C:/Users/Jose Adrian/Desktop/POO2/Pracctica pc/E1/main.cpp
+funciones.h
+C:/Users/Jose Adrian/Desktop/POO2/Pracctica pc/E1/funciones.h
+
